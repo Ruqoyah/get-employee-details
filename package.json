@@ -1,0 +1,26 @@
+{
+  "name": "get-employee-details",
+  "version": "1.0.0",
+  "description": "getting employee details",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruqoyah/get-employee-details.git"
+  },
+  "keywords": [
+    "Employee",
+    "Details"
+  ],
+  "author": "Rukayat Odukoya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruqoyah/get-employee-details/issues"
+  },
+  "homepage": "https://github.com/Ruqoyah/get-employee-details#readme"
+}
